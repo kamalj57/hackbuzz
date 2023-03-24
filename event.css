@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: url("assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ongoing{
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+    font-weight: 400;
+    font-size: xx-large;
+}
+.dep1{
+    font-family: "Maven Pro",sans-serif;
+    color: white;
+    margin-left: 8%;
+    margin-top: 4%;
+    font-weight: 400;
+    font-size: large;
+}
+.clubs{
+    font-family: 'Red Rose',sans-serif;
+    color: white;
+    margin-left: 8%;
+    margin-top: 23%;
+    font-weight: 400;
+    font-size: large;
+}
+.container{
+    height: 320px;
+    width: 400px;
+    padding: 25px 25px 50px 10px;
+    border-radius: 1%;
+    border-color: rgb(245, 241, 241);
+    background:white;
+    position:absolute;
+    left: 7%;
+    top: 25%;
+    font-family: 'Red Rose', sans-serif;
+    text-align: center;
+}
+.container1{
+    height: 320px;
+    width: 400px;
+    padding: 25px 25px 50px 10px;
+    border-radius: 1%;
+    border-color: rgb(245, 241, 241);
+    background-color: white;
+    position:absolute;
+    left: 40%;
+    top: 25%;
+    font-family: 'Red Rose',sans-serif;
+   text-align: center;
+}
+.cognizance{
+    height: 320px;
+    width: 400px;
+    padding: 25px 25px 50px 10px;
+    border-radius: 1%;
+    border-color: rgb(245, 241, 241);
+    background:white;
+    position:absolute;
+    left: 70%;
+    top: 25%;
+    font-family: 'Red Rose', sans-serif;
+    text-align: center;
+}
+.container2{
+    height: 295px;
+    width: 400px;
+    padding: 25px 30px 50px 10px;
+    border-radius: 1%;
+    border-color: rgb(245, 241, 241);
+    background-color: white;
+    position:absolute;
+    left: 7%;
+    top: 75%;
+    font-family: 'Red Rose', sans-serif;
+    text-align: center;
+}
+.container3{
+    height: 295px;
+    width: 400px;
+    padding: 25px 30px 50px 10px;
+    border-radius: 1%;
+    border-color: rgb(245, 241, 241);
+    background-color: white;
+    position:absolute;
+    left: 40%;
+    top: 75%;
+    font-family: 'Red Rose', sans-serif;
+    text-align: center;
+}
+.cognizance1{
+    font-weight: bolder;
+    color: blue;
+    font-size: 40px;
+}
+.codeup{
+    font-weight: bolder;
+    color: rgb(83, 158, 228);
+    font-size: 40px;
+}
+.info{
+    font-weight: bolder;
+    color: rgb(91, 31, 231);
+    font-size: 40px;
+}
+.syllogism{
+    font-weight: bolder;
+    color: rgb(91, 31, 231);
+    font-size: 40px;
+}
+.colour{
+    font-weight: bolder;
+    color: rgb(91, 31, 231);
+    font-size: 30px;
+}
